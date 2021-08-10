@@ -1,2 +1,2 @@
-# python-compiler-online
-Python Online Compiler | Python IDE Online
+# Python Compiler / IDE Online
+Simple Python Compiler, you can run Python code online.
